@@ -1,0 +1,4 @@
+total 0
+0 -rwxrwxrwx 1 anilkumar anilkumar 26 Jan 24 14:21 f1.txt
+0 -rwxrwxrwx 1 anilkumar anilkumar 73 Jan 24 19:27 f2.txt
+0 -rwxrwxrwx 1 anilkumar anilkumar  0 Jan 24 20:03 f3.txt
